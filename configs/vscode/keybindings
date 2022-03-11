@@ -1,0 +1,18 @@
+[
+  {
+    "key": "alt+cmd+m",
+    "command": "editor.action.toggleMinimap"
+  },
+  {
+    "key": "alt+cmd+a",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "alt+cmd+x",
+    "command": "workbench.action.focusStatusBar"
+  },
+  {
+    "key": "ctrl+cmd+s",
+    "command": "workbench.action.toggleStatusbarVisibility"
+  }
+]

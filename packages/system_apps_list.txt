@@ -1,0 +1,56 @@
+AltTab.app
+Bartender 4.app
+Boom 3D.app
+CleanMyMac X.app
+Clearview X.app
+CrossOver.app
+Days.app
+DevToys.app
+Discord.app
+Docker.app
+Fig.app
+Folx.app
+GoodTask.app
+Google Chrome.app
+Hand Mirror.app
+HazeOver.app
+Hot.app
+Hyper.app
+IINA.app
+Kotatogram.app
+Luminar Neo.app
+Lungo.app
+MacYTDL.app
+Maccy.app
+MeetingBar.app
+Microsoft Edge.app
+MonitorControl.app
+Paw.app
+Raycast.app
+Rectangle.app
+Reeder.app
+RunJS.app
+Safari.app
+Session.app
+Shottr.app
+Sidekick.app
+Smooze Pro.app
+SnippetsLab.app
+SoundSource.app
+Spotify.app
+Stats.app
+TestFlight.app
+TextSniper.app
+Things3.app
+Tower.app
+Twitterrific.app
+Utilities
+VLC.app
+Veamly Lite.app
+Visual Studio Code.app
+WhatsApp.app
+WireGuard.app
+iTerm.app
+iina+.app
+krisp.app
+zoom.us.app
